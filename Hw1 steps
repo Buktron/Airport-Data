@@ -1,0 +1,9 @@
+Homework 1 McGalpin Steps:
+1. Read the characters inside the file
+2. Once read, store them in an array and print to screen
+3.If can store in array, allocate space to store characters in an array
+	* Use pointers
+4. Once able to allocate space for characters to be stored in an array, do the same but in a structure with the 'airPdata.h' file.
+5. Once you store characters from file in structure array from 'airPdata.h', print to screen.
+6. Test code on linux and eustis. 
+7. If stuck as for help, don't hesitate to ask everything doesn't come easy to everyone. Keep working on it and learn from mistakes. 
